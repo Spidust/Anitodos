@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spidust.github.io/anitodos/static/css/main.56e6221f.css",
+    "main.js": "/spidust.github.io/anitodos/static/js/main.fca95c97.js",
+    "static/js/787.2c39acad.chunk.js": "/spidust.github.io/anitodos/static/js/787.2c39acad.chunk.js",
+    "index.html": "/spidust.github.io/anitodos/index.html",
+    "main.56e6221f.css.map": "/spidust.github.io/anitodos/static/css/main.56e6221f.css.map",
+    "main.fca95c97.js.map": "/spidust.github.io/anitodos/static/js/main.fca95c97.js.map",
+    "787.2c39acad.chunk.js.map": "/spidust.github.io/anitodos/static/js/787.2c39acad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e6221f.css",
+    "static/js/main.fca95c97.js"
+  ]
+}
